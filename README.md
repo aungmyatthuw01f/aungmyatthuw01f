@@ -24,7 +24,7 @@ I'm always open to collaborating on projects that aim to create a safer environm
 
 ## Connect with Me
 
-If you'd like to connect or collaborate, feel free to reach out through my [GitHub](https://github.com/your-github-profile) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+If you'd like to connect or collaborate, feel free to reach out through my [GitHub](https://github.com/zenzue) or [LinkedIn](https://www.linkedin.com/in/w01f).
 
 Let's work together towards a safer and more secure digital world!
 
